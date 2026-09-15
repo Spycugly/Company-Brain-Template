@@ -1,0 +1,35 @@
+# llms.txt — Cervello Aziendale
+
+> File DERIVATO, generato da `code/generate_llms_txt.py` a partire dal frontmatter delle note. Non modificarlo a mano: rigeneralo da capo eseguendo lo script.
+
+## self
+(nessuna nota)
+
+## areas
+(nessuna nota)
+
+## projects
+(nessuna nota)
+
+## concepts
+(nessuna nota)
+
+## docs
+- [[template-cliente]] -- "{{una frase: chi è il cliente, da quando}}"
+- [[template-kpi-periodo]] -- "{{una frase: stato del business a fine periodo}}"
+- [[template-persona]] -- "{{una frase: ruolo e cosa custodisce/sa questa persona}}"
+- [[template-prodotto]] -- "{{una frase: cosa fa questo prodotto}}"
+- [[template-reparto]] -- "{{una frase: funzione continua che svolge questo reparto}}"
+- [[template-self-identita]] -- "{{una frase: cosa fa l'azienda, per chi, su quante linee di prodotto}}"
+
+## entities
+(nessuna nota)
+
+## data
+(nessuna nota)
+
+## code
+(nessuna nota)
+
+## outputs
+(nessuna nota)
